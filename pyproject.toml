@@ -17,7 +17,6 @@ doc = [
 name = "ABIDES"
 version = "0.0.1"
 description = "Agent-Based Interactive Discrete Event Simulation environment"
-authors = [{ name = "", email = "" }]
 dependencies = [
     "coloredlogs==15.0.1",
     "gym==0.18.0",
