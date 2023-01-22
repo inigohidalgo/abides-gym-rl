@@ -27,6 +27,7 @@ dependencies = [
     "ray[rllib]==1.7.0",
     "scipy==1.7.0",
     "tqdm==4.61.1",
+    "termcolor>=2.2.0",
 ]
 requires-python = ">=3.8, <3.9"
 license = { text = "BSD-3-Clause" }
